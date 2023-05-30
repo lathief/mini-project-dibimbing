@@ -14,3 +14,4 @@ You need to build a database schema for CRM service from scratch according to th
 
 ## Database Schema
 
+![Schema](https://github.com/lathief/mini-project-dibimbing/blob/main/mini-project-sql/erd-crm.png?raw=true)
